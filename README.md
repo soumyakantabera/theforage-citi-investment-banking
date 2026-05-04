@@ -1,8 +1,29 @@
 # Citi Investment Banking Job Simulation – Best Buy M&A Case
 
+<p>
+  <img src="https://img.shields.io/badge/Program-Citi%20Investment%20Banking-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-The%20Forage-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
+---
+
 **Best Buy represents a compelling M&A target: a digitally transformed consumer technology leader trading at a significant discount to peers with a clear path to re-rating through membership economics and operational leverage.**
 
 **Target Company**: Best Buy Co., Inc. (NYSE: BBY)
+
+---
+
+## 📋 Table of Contents
+
+- [Repository Purpose](#repository-purpose)
+- [Task-by-Task Breakdown](#task-by-task-breakdown)
+  - [01\_Target\_Profile/ — M&A Target Company Profile](#01_target_profile--ma-target-company-profile)
+  - [02\_IS\_Model/ — Financial Modeling Basics](#02_is_model--financial-modeling-basics)
+  - [03\_Trading\_Comps/ — Spreading Comps](#03_trading_comps--spreading-comps)
+  - [04\_Key\_Findings/ — Synthesize Key Findings](#04_key_findings--synthesize-key-findings)
+  - [executive\_summary/](#executive_summary)
+- [Why This Submission Demonstrates Strong Analyst Capability](#why-this-submission-demonstrates-strong-analyst-capability)
 
 ---
 
