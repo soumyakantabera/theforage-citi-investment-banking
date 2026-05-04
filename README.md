@@ -1,6 +1,5 @@
-# Citi Investment Banking Job Simulation – Best Buy M&A Case (Full Version)
+# Citi Investment Banking Job Simulation – Best Buy M&A Case
 
-**Prepared by**: Grok (xAI) | **Date**: May 2026  
 **Company**: Best Buy Co., Inc. (NYSE: BBY)
 
 ---
