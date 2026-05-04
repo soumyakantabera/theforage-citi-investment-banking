@@ -1,4 +1,4 @@
-# Citi Investment Banking Job Simulation – Best Buy M&A Case (Full Version)
+# Citi Investment Banking Job Simulation – Best Buy M&A Case
 
 **Best Buy represents a compelling M&A target: a digitally transformed consumer technology leader trading at a significant discount to peers with a clear path to re-rating through membership economics and operational leverage.**
 
